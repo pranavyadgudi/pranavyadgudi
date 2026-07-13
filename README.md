@@ -9,7 +9,6 @@
 ###
 
 <p data-importer="text" align="left">My name is pranav from sankeshwar</p>
-<br clear="both">
 
 <h5 data-importer="text" align="left">✨ solving bugs from 2023<br>📚 I'm current bca graduate student <br>🎲 Fun fact: making perfection</h5>
 
